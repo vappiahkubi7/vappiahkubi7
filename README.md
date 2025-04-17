@@ -62,8 +62,4 @@ I'm committed to embedding **Sustainable Procurement** and **ESG standards** int
 
 ## 💼 Portfolio 👇
 
-> **Disclaimer ⚠️**: The datasets, analyses, and reports presented in this portfolio are synthetic and created solely for demonstration purposes. They do not contain proprietary, confidential, or sensitive information. These examples showcase my technical skills in procurement analytics, dashboard development, and data storytelling — while maintaining ethical guidelines and respecting data privacy.
-
----
-
-🔁 _“_
+> **Disclaimer** ⚠️**: The datasets, analyses, and reports presented in this portfolio are synthetic and created solely for demonstration purposes. They do not contain proprietary, confidential, or sensitive information. These examples showcase my technical skills in procurement analytics, dashboard development, and data storytelling — while maintaining ethical guidelines and respecting data privacy.

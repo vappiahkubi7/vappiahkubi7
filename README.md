@@ -19,31 +19,31 @@ Welcome to my portfolio, where I share the intersection of **procurement**, **da
 
 ## 🔧 Core Competencies
 
-- ✅ **Spend Analysis & Supplier Performance Tracking**  
+✅ **Spend Analysis & Supplier Performance Tracking**  
   Analyze procurement data to uncover spend patterns, track vendor performance, and support cost-saving initiatives.
 
-- ✅ **Procurement KPIs & Cost Reduction Strategies**  
+✅ **Procurement KPIs & Cost Reduction Strategies**  
   Define and track procurement performance metrics such as savings, lead times, PO cycle times, and contract compliance to enhance efficiency.
 
-- ✅ **Data Cleansing & Wrangling (SQL, Excel, Tableau)**  
+✅ **Data Cleansing & Wrangling (SQL, Excel, Tableau)**  
   Transform messy procurement data into structured, actionable datasets using SQL and Excel for dashboarding and insights.
 
-- ✅ **Tender Management / Contracting**  
+✅ **Tender Management / Contracting**  
   Support RFx processes through bid evaluation, tender scoring tools, and automated contract award workflows.
 
-- ✅ **Inventory Optimization & Forecasting Models**  
+✅ **Inventory Optimization & Forecasting Models**  
   Build demand and reorder forecasting models to ensure stock availability while minimizing excess inventory.
 
-- ✅ **Contract Lifecycle & Category Management**  
+✅ **Contract Lifecycle & Category Management**  
   Track contracts and spend across categories to inform sourcing strategy and mitigate risks.
 
-- ✅ **Predictive Modeling & Trend Forecasting**  
+✅ **Predictive Modeling & Trend Forecasting**  
   Use data science to anticipate demand trends, flag anomalies, and enable proactive procurement planning.
 
-- ✅ **Procurement Compliance & Risk Monitoring**  
+✅ **Procurement Compliance & Risk Monitoring**  
   Design dashboards to monitor policy adherence, contract KPIs, and supplier risk.
 
-- ✅ **Sustainable & ESG Supply Chain Integration**  
+✅ **Sustainable & ESG Supply Chain Integration**  
   Incorporate ESG metrics into sourcing frameworks to drive sustainable and responsible procurement.
 
 ---
